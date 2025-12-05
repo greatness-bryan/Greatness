@@ -21,4 +21,4 @@ my ***first*** repo
 ```javascript
    console.log("hello")
 ```  
-this code was created by[yvcsdylane] (http:00//greatness.com)
+this code was created by[ yvcsdylane ](http:00//greatness.com)
