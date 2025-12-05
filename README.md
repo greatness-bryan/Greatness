@@ -11,5 +11,5 @@ my ***first*** repo
 >my first repo  
 >>block and nested codes<<
 >  
--item 1  
-  -sub item
+- item 1  
+  - sub item
